@@ -1,7 +1,7 @@
-# Nextra
+# Welcome
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+This is the Desica leagal hub, where you can find all of our leagal policies and infomation. At Desica, we understand that you are entrusting us to protect your privacy, and we believe that your data is none of our business. That's why we never sell, rent or share your data with anyone.
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+<img src="contract.png" class="home-img"></img>
 
-![](/demo.png)
+In some cases, our sevices have seperate policies that apply to them. Desiads is an example of such a product, and as you can see, there is a folder titled Desiads, where you can find the product specific polices that apply on Desiads.
