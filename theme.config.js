@@ -15,13 +15,13 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the next site builder" />
-      <meta name="og:description" content="Nextra: the next site builder" />
+      <meta name="description" content="This is the Desica leagal hub, where you can find all of our leagal policies and infomation." />
+      <meta name="og:description" content="This is the Desica leagal hub, where you can find all of our leagal policies and infomation." />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://policies.desica.uk/og.png" />
       <meta name="twitter:site:domain" content="policies.desica.uk" />
       <meta name="twitter:url" content="https://policies.desica.uk" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:title" content="Policies | Desica" />
       <meta name="og:image" content="https://policies.desica.uk/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
