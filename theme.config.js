@@ -11,6 +11,7 @@ export default {
   ),
   head: (
     <>
+      <script async src="https://analytics.desica.uk/tracker.js" data-ackee-server="https://analytics.desica.uk" data-ackee-domain-id="5b7ce318-b863-43fd-a89e-5c266026b782"></script>
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
